@@ -35,7 +35,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Mark Butler**: Friday at noon PST
 * **Daniel Cer**: Monday at noon PST
 * **Peter Grabowski**: Tuesday at 1pm PST
-* **Joachim Rahmfeld**: Tuesday at noon PST
+* **Joachim Rahmfeld**: Tuesday at 5:30pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after his live session
 * **Gurdit Chahal**: Wednesday at noon PST
 * **Justin Jeng**: Friday at 2pm PST
@@ -180,6 +180,27 @@ will be released around the last live session of the week and due approximately 
 </tr>
 
 
+<tr>  <!-- a2 -->
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Assignment 2</strong>
+  <ul>
+    <li>Neural Networks
+  </ul></td>
+  <td></td>
+  <td>Sep&nbsp;12</td>
+</tr>
+
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Embeddings
+    <li>ML Fairness
+  </ul></td>
+  <td></td>
+  <td>Sep&nbsp;19</td>
+</tr>
+
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
   <td>
@@ -189,6 +210,47 @@ will be released around the last live session of the week and due approximately 
   <td>Sep&nbsp;25</td>
 </tr>
 
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Classification
+    <li>Convolutional Neural Nets
+  </ul></td>
+  <td></td>
+  <td>Oct&nbsp;3</td>
+</tr>
+
+<tr> <!-- a5 -->
+  <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
+  <td><strong>Assignment 5</strong>
+  <ul>
+    <li>Language Models
+  </ul></td>
+  <td></td>
+  <td>Oct&nbsp;10</td>
+</tr>
+
+
+<tr> <!-- a6 -->
+  <td><strong><a href="../assignment/a6" target="_blank">Assignment&nbsp;6</a></strong>
+  <td><strong>Assignment 6</strong>
+  <ul>
+    <li>Machine Translation
+  </ul></td>
+  <td></td>
+  <td>Oct&nbsp;17</td>
+</tr>
+
+<tr> <!-- a7 -->
+  <td><strong><a href="../assignment/a7" target="_blank">Assignment&nbsp;7</a></strong>
+  <td><strong>Assignment 7</strong>
+  <ul>
+    <li>Various Topics
+  </ul></td>
+  <td></td>
+  <td>Oct&nbsp;31</td>
+</tr>
 
 <tr><!--- Project Reports -->
   <td><strong><a href="../project/#final-submission" target="_blank">Project&nbsp;Reports</a></strong>
@@ -498,13 +560,10 @@ will be released around the last live session of the week and due approximately 
   <li><em>Optional:</em> <a href="https://www.aclweb.org/anthology/D14-1082.pdf" target="_blank">A Fast and Accurate Dependency Parser using Neural Networks</a> (Chen & Manning 2014)
     <li>Skim: <a href="http://www.nltk.org/book/ch08.html" target="_blank">NLTK book chapter 8 (analyzing sentence structure)</a>
   <li>Skim: <a href="http://ilpubs.stanford.edu:8091/~klein/unlexicalized-parsing.pdf" target="_blank">Accurate Unlexicalized Parsing</a> (Klein & Manning 2003)
-  <li>Play: <a href="http://nlp.stanford.edu:8080/parser/" target="_blank">Stanford parser</a> (online demo)
+  <li>Play: <a href="https://corenlp.run" target="_blank">Stanford parser</a> (online demo)
   <li><em>Optional / reference:</em> <a href="http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html" target="_blank">Penn Treebank Constituent Tags</a>
   </ul>
   <br>
-  <a href="https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log" target="_blank">[<em>Optional:</em> Interactive HMM Demo]</a>
-  <p>
-  <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[<em>Optional:</em> Interactive CKY Demo]</a>
   </td>
 </tr>
 

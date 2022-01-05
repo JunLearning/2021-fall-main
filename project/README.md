@@ -110,7 +110,7 @@ This year’s NLP conferences might be good for inspiration as well, or if you j
 
 Between Week 2 and Week 4, the instructors will be holding special discussion sections (during OH) to talk about how to search the literature and read NLP papers. Each session will also include a guided discussion of a specific paper. We'll release a schedule and a list of papers early in the semester.
 
-Please write your proposal in a Google Doc (shared with comment access to anyone with the link) and submit a link to you proposal via [this form-TBD](https://forms.gle).  We'll provide feedback as in-line comments, which can be more convenient than an email thread.
+Please write your proposal in a Google Doc (shared with comment access to anyone with the link) and submit a link to you proposal via [this form](https://forms.gle/N4MwzrrZUzuMF1sF7).  We'll provide feedback as in-line comments, which can be more convenient than an email thread.
 _Please no Microsoft Word documents!_
 
 ## Milestone (optional)
@@ -153,7 +153,7 @@ This will be a final report in the style of a research paper. Aim for 4-6 pages 
 
 **Privacy:** If you don't want us to release your report publicly, please indicate that in the form below.
 
-Please submit your PDF (and your project's code) to your course GitHub and then complete [this form (tbd)]().
+Please submit your PDF (and your project's code) to your course GitHub and then complete [this form](https://forms.gle/krbLVTJnWZRNP8Yv5).
 
 We will be providing feedback to teams based on the rubric above.  This will take us some time (potentially up to a month after the deadline) and likely term grades will be released ahead of that feedback.
 
